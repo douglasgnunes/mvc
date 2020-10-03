@@ -6,6 +6,9 @@
 <div class="contato principal">
 	<div class="center">
 		<form method="post">
+			<div class="alerta">
+				<h3>Entre em contato com a nossa equipe!</h3>
+			</div><!--alerta-->
 			<input type="text" name="nome" placeholder="Nome..">
 			<textarea name="mensagem" placeholder="Deixe sua mensagem..">	
 			</textarea>
